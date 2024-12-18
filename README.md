@@ -18,3 +18,12 @@ VerifiLive is an AI-powered tool that uses advanced Natural Language Processing 
   - **Dash / Flask** - Web framework for the user dashboard
   - **Plotly** - Data visualization library
   - **Fact-Checking APIs** - Fact-checking services like FactCheck.org, PolitiFact
+
+  ---
+
+## Team Members
+- **Suhaina Fathima M**:
+  - B.E in CSE in Government College Of Engineering, Salem
+  - Contact: suhainafathimam@gmail.com
+ 
+---
