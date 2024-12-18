@@ -27,3 +27,15 @@ VerifiLive is an AI-powered tool that uses advanced Natural Language Processing 
   - Contact: suhainafathimam@gmail.com
  
 ---
+### Future Enhancements
+  - **Enhanced Accuracy**: Integrating more advanced AI models such as BERT, GPT for improved detection and cross-referencing of misinformation.
+  - **Multi-Lingual Support**: Extend functionality to support misinformation detection in multiple languages for a wider global audience.
+  - **Scalability**: Improve the system’s scalability by enhancing backend infrastructure and optimizing the data pipeline.
+  - **User Contributions**: Open-sourcing the project to allow external contributions and improvements.
+
+### 📝 Contributing
+We welcome contributions to VerifiLive. If you'd like to contribute, feel free to fork the repository, make changes, and submit a pull request.
+
+### 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
